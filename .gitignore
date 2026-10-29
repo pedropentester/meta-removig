@@ -1,0 +1,36 @@
+## .NET / Visual Studio
+bin/
+obj/
+publish/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
+
+## IDEs
+.vs/
+.vscode/
+.idea/
+*.swp
+
+## Paquetes y build
+*.nupkg
+*.snupkg
+project.lock.json
+artifacts/
+TestResults/
+
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## Imágenes de prueba personales (no subir fotos reales)
+/test-images/
+/samples/
